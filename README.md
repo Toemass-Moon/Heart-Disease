@@ -1,5 +1,5 @@
 # Project 5: Predicting Patient Risk for Cardiovascular Disease #
-## Jen Zieger, Basazin Belhu, Thomaz Moon, Catherine Clary
+## Jen Zieger, Basazin Belhu, Thomaz Moon, Catherine Clary 
 ___
 ### Sources
 1. [Heart Statlog](https://www.kaggle.com/sid321axn/heart-statlog-cleveland-hungary-final)
